@@ -47,7 +47,7 @@
 <body>
     <div class="container">
         <h1>Selamat Datang!</h1>
-        <p>Anda telah berhasil mengakses aplikasi kami.</p>
+        <p>Web ini berisi list Employee dan list </p>
         <a href="{{ route('employee.index') }}">List Employee</a>
         <a href="{{ route('location.index') }}">List Location</a>
     </div>

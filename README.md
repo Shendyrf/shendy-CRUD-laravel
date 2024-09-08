@@ -59,7 +59,7 @@ http://localhost:8000.
 
 ## Deployment
 
- Aplikasi ini di-deploy di GitHub. Untuk mengupdate aplikasi atau meng-upload versi terbaru
+Aplikasi ini di-deploy di GitHub. Untuk mengupdate aplikasi atau meng-upload versi terbaru
 
 1. Buat Repositori di GitHub:
 - Masuk ke akun GitHub.
